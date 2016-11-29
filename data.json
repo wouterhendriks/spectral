@@ -12,16 +12,16 @@
 			"innerHTML": "Spectral"
 		},
 		"banner title": "Wouter",
-		"banner description": "Another fine responsive<br>\n\t\t\t\t\t\t\tsite template freebie<br>\n\t\t\t\t\t\t\tcrafted by <a href=\"http://html5up.net\">HTML5 UP</a>.",
+		"banner description": "<p>Dit is een test... van...<br>Simply edit!</p>",
 		"banner button": {
 			"href": "#simply-edit",
 			"class": "button special",
-			"innerHTML": "Edit me!"
+			"innerHTML": "Knop met tekst"
 		},
 		"banner link": {
 			"href": "#one",
 			"class": "more scrolly",
-			"innerHTML": "Learn More"
+			"innerHTML": "Leer meer"
 		},
 		"section one title": "Arcu aliquet vel lobortis ata nisl<br>\n\t\t\t\t\t\t\t\teget augue amet aliquet nisl cep donec",
 		"section one description": "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br>\n\t\t\t\t\t\t\t\tfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.",
