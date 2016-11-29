@@ -6,22 +6,22 @@
 		"cta actions": [],
 		"footer icons": [],
 		"menu": [],
-		"meta title": "Spectral by HTML5 UP",
+		"meta title": "Pagina titel",
 		"homelink": {
 			"href": "index.html",
 			"innerHTML": "Spectral"
 		},
 		"banner title": "Wouter",
-		"banner description": "<p>Dit is een test... van...<br>Simply edit!</p>",
+		"banner description": "Another fine responsive<br>\n\t\t\t\t\t\t\tsite template freebie<br>\n\t\t\t\t\t\t\tcrafted by <a href=\"http://html5up.net\">HTML5 UP</a>.",
 		"banner button": {
 			"href": "#simply-edit",
 			"class": "button special",
-			"innerHTML": "Knop met tekst"
+			"innerHTML": "Edit me!"
 		},
 		"banner link": {
 			"href": "#one",
 			"class": "more scrolly",
-			"innerHTML": "Leer meer"
+			"innerHTML": "Learn More"
 		},
 		"section one title": "Arcu aliquet vel lobortis ata nisl<br>\n\t\t\t\t\t\t\t\teget augue amet aliquet nisl cep donec",
 		"section one description": "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br>\n\t\t\t\t\t\t\t\tfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.",
